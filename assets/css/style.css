@@ -1,0 +1,66 @@
+
+
+#triviaGame{
+    background-color:white;
+    margin-top: 50px;
+    font-family: 'Chalkduster', cursive;
+    
+
+}
+
+header{
+    text-align: center;
+    font-size: 70px;
+    word-spacing: 20px;
+    line-height: 2;
+    border: 1px solid;
+    margin-bottom: 20px;
+    color: blue;
+
+}
+
+.btn-danger{
+    margin-left: 40%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 150px;
+    font-size: 30px;
+    letter-spacing: 2px;
+    
+}
+
+.time{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20px;
+    word-spacing: 5px;
+}
+
+.questions{
+    font-family: 'apple chancery', cursive;
+    text-align: center;
+    font-weight: 900;
+
+}
+
+.answers{
+    font-family: Apple Chancery, cursive;
+    text-align: center;
+
+}
+
+#submit{
+    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-left: 47%;
+}
+
+#correct, #incorrect{
+    text-align: center;
+}
+
+#startOver{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
